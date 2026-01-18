@@ -9,35 +9,27 @@ title: Inicio
 ---
 
 ## Perfil Académico
-Estoy finalizando mi formación superior en la **Universidad de Murcia**, combinando el rigor lógico de las matemáticas con la capacidad de implementación de la ingeniería. Actualmente soy **Alumno Interno** en el Departamento de Ingeniería y Tecnología de Computadores (DITEC).
+Estoy finalizando mi doble grado en Matemáticas e Ingeniería Informática en la **Universidad de Murcia**. Actualmente soy **Alumno Interno** en el Departamento de Ingeniería y Tecnología de Computadores (DITEC).
 
-* **Beca de Colaboración:** Concedida para el desarrollo de mi Trabajo de Fin de Grado *Implementación de un sistema de memoria virtual energéticamente eficiente para LLMs*.
-* **Logros:** Representante de la Universidad de Murcia en la **Olimpiada Nacional de Programación (2023)**.
-* **Seguridad:** Microcredencial en **Auditoría de Seguridad de Aplicaciones Web**.
+- **Beca de Colaboración:** Concedida para el desarrollo de mi Trabajo de Fin de Grado *Implementación de un sistema de memoria virtual energéticamente eficiente para LLMs*.
+- Representante de la Universidad de Murcia en la **Olimpiada Nacional de Programación (2023)**.
+- Microcredencial en **Auditoría de Seguridad de Aplicaciones Web**.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-### 💻 Programación y Análisis
+### Programación y Análisis
 * **Low-level:** C, C++ (Optimización y estructuras de datos).
-* **Data Science & IA:** Python (`NumPy`, `Matplotlib`, `PyTorch`), R.
+* **Ciencia de Datos e IA:** Python (`NumPy`, `Pandas`, `Matplotlib`, `PyTorch`), R.
 * **Desarrollo:** Java, Bash scripting.
 
-### 🌐 Infraestructura y Seguridad
+### Infraestructura y Seguridad
 * **Virtualización:** VirtualBox, Docker.
-* **Cloud & DevOps:** Kubernetes, Git, GitHub. 
+* **Cloud y DevOps:** Kubernetes, Git, GitHub. 
 * **Sistemas Operativos:** Linux (Ubuntu, Fedora, Kali) y Windows.
-* **Networking:** Configuración de routers, firewalls y herramientas de automatización.
+* **Networking:** Configuración de routers, firewalls, VPNs, herramientas de automatización.
 * **Ciberseguridad:** Blue Team (Análisis de logs, herramientas de monitorización, etc.) y Red Team (Auditoría web, securización de sistemas, hacking WiFi, etc.)
-
----
-
-## 🏆 Proyectos y Destacados
-> "La intersección entre los modelos matemáticos y la computación es donde resuelvo problemas complejos."
-
-* **Olimpiada de Programación:** Resolución de problemas algorítmicos bajo presión y optimización de recursos.
-* **Auditoría Web:** Análisis de vulnerabilidades y buenas prácticas en desarrollo seguro.
 
 ---
 
